@@ -1,4 +1,6 @@
-## Hi there 👋
+## hey there 👋
+
+i'm melvin, soon to be AI engineer
 
 <!--
 **eonsparks/eonsparks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
